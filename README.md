@@ -18,3 +18,8 @@ Hello
 
 ![Screenshot of teammate's commit into my repo in Activity4_1.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity4_1.png "Activity3_1.png")
 ![Screenshot of my commit into my teammate's repo in Activity4_2.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity4_2.png "Activity3_2.png")
+
+# Activity 5
+
+![Screenshot of switching to the rebase branch in Activity5_1.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity5_1.png "Activity5_1.png")
+![Screenshot of running the rebase command with develop in the rebase branch in Activity5_2.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity5_2.png "Activity5_2.png")
