@@ -23,3 +23,7 @@ Hello
 
 ![Screenshot of switching to the rebase branch in Activity5_1.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity5_1.png "Activity5_1.png")
 ![Screenshot of running the rebase command with develop in the rebase branch in Activity5_2.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity5_2.png "Activity5_2.png")
+
+# Activity 6
+
+[Link to my EP Repo](https://github.com/ECE444-2022Fall/Assignment_1_starter_template)
