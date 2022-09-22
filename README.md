@@ -26,7 +26,7 @@ Hello
 
 # Activity 6
 
-[Link to my EP Repo](https://github.com/ECE444-2022Fall/Assignment_1_starter_template)
+[Link to my EP Repo](https://github.com/NithSelv/ECE444-F2022-EP)
 
 # Activity 7
 
