@@ -27,3 +27,17 @@ Hello
 # Activity 6
 
 [Link to my EP Repo](https://github.com/ECE444-2022Fall/Assignment_1_starter_template)
+
+# Activity 7
+
+![Screenshot of switching to the develop branch in Activity7_1.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity7_1.png "Activity7_1.png")
+![Screenshot of running the rebase command with feature-change-title in the develop branch in Activity7_2.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity7_2.png "Activity7_2.png")
+![Screenshot of the updated main page of EP in Activity7_3.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity7_3.png "Activity7_3.png")
+
+# Activity 8
+
+![Screenshot of running the rebase command with feature-add-a-tab in the develop branch in Activity8_1.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity8_1.png "Activity8_1.png")
+![Screenshot of the new tab page of EP in Activity8_2.png](https://github.com/NithSelv/ECE444-F2022-Lab1/blob/main/Activity8_2.png "Activity8_2.png")
+
+
+
